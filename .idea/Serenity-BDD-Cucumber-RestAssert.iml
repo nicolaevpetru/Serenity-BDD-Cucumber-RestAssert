@@ -231,5 +231,6 @@
     <orderEntry type="library" name="Maven: org.codehaus.groovy:groovy-xml:3.0.6" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: net.serenity-bdd:serenity-rest-assured:2.3.10" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: net.serenity-bdd:serenity-screenplay-rest:2.3.10" level="project" />
+    <orderEntry type="library" name="Maven: com.github.stephenc.monte:monte-screen-recorder:0.7.7.0" level="project" />
   </component>
 </module>
